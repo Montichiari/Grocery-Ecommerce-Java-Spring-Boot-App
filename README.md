@@ -1,6 +1,6 @@
 # GDiSA Java EE CA (by Team 3)
 
-This project is for NUS GDiSA Batch 60 SA4105 CA, by Team 3 (Jared Chua, Dion Yao, Thina, Hiroyo, Ma Li, Sheng Yi).
+This project is for NUS GDipSA Batch 60 SA4105 CA, by Team 3 (Dion Yao, Jared Chua, Thina, Hiroyo, Ma Li, Sheng Yi).
 
 ## Deployment
 
