@@ -1,4 +1,6 @@
-# Grocery Ecommerce Application
+# GetFreshFood Grocery Ecommerce Spring Boot Application
+<img width="1916" height="970" alt="image" src="https://github.com/user-attachments/assets/3fb7697d-55d1-4007-99fd-fea7556526c5" />
+
 
 This project is for NUS GDipSA Batch 60 SA4105 CA, by Team 3 (Dion Yao, Jared Chua, Thina, Hiroyo, Ma Li, Sheng Yi).
 
@@ -14,6 +16,15 @@ Then run the following
 ```
   docker compose up
 ```
+To login:
+Customer Account:
+- Email: john.doe@email.com
+- Password: Password123!
+
+Staff Account:
+- Email: support.staff@email.com
+- Password: Admin123!
+
 
 ## Application Stack
 
