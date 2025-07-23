@@ -16,7 +16,7 @@ Then run the following
 ```
   docker compose up
 ```
-To login:
+**To login:**<br>
 Customer Account:
 - Email: john.doe@email.com
 - Password: Password123!
