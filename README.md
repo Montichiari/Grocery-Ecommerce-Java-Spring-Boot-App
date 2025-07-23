@@ -1,4 +1,4 @@
-# GDiSA Java EE CA (by Team 3)
+# Grocery Ecommerce Application
 
 This project is for NUS GDipSA Batch 60 SA4105 CA, by Team 3 (Dion Yao, Jared Chua, Thina, Hiroyo, Ma Li, Sheng Yi).
 
